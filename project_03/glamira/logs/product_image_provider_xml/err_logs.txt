@@ -1,0 +1,628 @@
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/6/sku/anissa-n-025/diamond/diamond-Brillant_AAA/alloycolour/yellow.jpg. Status code: 404
+Error saving metadata: null value in column "product_name" of relation "images_metadata" violates not-null constraint
+DETAIL:  Failing row contains (51599, https://www.glamira.com/media/sitemap/glus/product_image_provide..., https://www.glamira.com/quotation-product.html, null, 2024-03-07 02:02:50, null, https://cdn-media.glamira.com/media/catalog/product/s/p/specialc..., null, null, null, null, null, null, null, null, None/-media-catalog-product-s-p-specialc_1.jpg).
+
+Failed to save metadata for https://cdn-media.glamira.com/media/catalog/product/s/p/specialc_1.jpg.
+Error saving metadata: null value in column "product_name" of relation "images_metadata" violates not-null constraint
+DETAIL:  Failing row contains (51600, https://www.glamira.com/media/sitemap/glus/product_image_provide..., https://www.glamira.com/express-shipping.html, null, 2024-03-07 02:02:50, null, https://cdn-media.glamira.com/media/catalog/product/e/x/express_..., null, null, null, null, null, null, null, null, None/-media-catalog-product-e-x-express_shipping_view.png).
+
+Failed to save metadata for https://cdn-media.glamira.com/media/catalog/product/e/x/express_shipping_view.png.
+Error saving metadata: null value in column "product_name" of relation "images_metadata" violates not-null constraint
+DETAIL:  Failing row contains (51601, https://www.glamira.com/media/sitemap/glus/product_image_provide..., https://www.glamira.com/express-shipping-1.html, null, 2024-03-07 02:02:50, null, https://cdn-media.glamira.com/media/catalog/product/e/x/express_..., null, null, null, null, null, null, null, null, None/-media-catalog-product-e-x-express_shipping_view_1.png).
+
+Failed to save metadata for https://cdn-media.glamira.com/media/catalog/product/e/x/express_shipping_view_1.png.
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/5/sku/OEPD-078/alloycolour/red_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/2/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/5/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/6/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/7/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Error saving metadata: null value in column "product_name" of relation "images_metadata" violates not-null constraint
+DETAIL:  Failing row contains (80256, https://www.glamira.com/media/sitemap/glus/product_image_provide..., https://www.glamira.com/shipping-label-fee.html, null, 2024-03-07 02:05:42, null, https://cdn-media.glamira.com/media/catalog/product/e/x/express_..., null, null, null, null, null, null, null, null, None/-media-catalog-product-e-x-express_shipping_view_2.png).
+
+Failed to save metadata for https://cdn-media.glamira.com/media/catalog/product/e/x/express_shipping_view_2.png.
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow/width/w4/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/white/width/w4/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white/width/w5/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/white_yellow/width/w5/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow/width/w6/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow/width/w6/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w8/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow/width/w8/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w10/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w10/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w10/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w5/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n/womenstone/diamond-zirconia_AAAAA/alloycolour/white/width/w6/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w8/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/white/width/w10/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow/width/w5/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/white/width/w6/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w8/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/6/sku/anissa-n-025/diamond/diamond-Brillant_AAA/alloycolour/yellow.jpg. Status code: 404
+Error saving metadata: null value in column "product_name" of relation "images_metadata" violates not-null constraint
+DETAIL:  Failing row contains (145767, https://www.glamira.com/media/sitemap/glus/product_image_provide..., https://www.glamira.com/quotation-product.html, null, 2024-03-07 02:02:50, null, https://cdn-media.glamira.com/media/catalog/product/s/p/specialc..., null, null, null, null, null, null, null, null, None/-media-catalog-product-s-p-specialc_1.jpg).
+
+Failed to save metadata for https://cdn-media.glamira.com/media/catalog/product/s/p/specialc_1.jpg.
+Error saving metadata: null value in column "product_name" of relation "images_metadata" violates not-null constraint
+DETAIL:  Failing row contains (145768, https://www.glamira.com/media/sitemap/glus/product_image_provide..., https://www.glamira.com/express-shipping.html, null, 2024-03-07 02:02:50, null, https://cdn-media.glamira.com/media/catalog/product/e/x/express_..., null, null, null, null, null, null, null, null, None/-media-catalog-product-e-x-express_shipping_view.png).
+
+Failed to save metadata for https://cdn-media.glamira.com/media/catalog/product/e/x/express_shipping_view.png.
+Error saving metadata: null value in column "product_name" of relation "images_metadata" violates not-null constraint
+DETAIL:  Failing row contains (145769, https://www.glamira.com/media/sitemap/glus/product_image_provide..., https://www.glamira.com/express-shipping-1.html, null, 2024-03-07 02:02:50, null, https://cdn-media.glamira.com/media/catalog/product/e/x/express_..., null, null, null, null, null, null, null, null, None/-media-catalog-product-e-x-express_shipping_view_1.png).
+
+Failed to save metadata for https://cdn-media.glamira.com/media/catalog/product/e/x/express_shipping_view_1.png.
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/5/sku/OEPD-078/alloycolour/red_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/2/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/5/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/6/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/7/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Error saving metadata: null value in column "product_name" of relation "images_metadata" violates not-null constraint
+DETAIL:  Failing row contains (180108, https://www.glamira.com/media/sitemap/glus/product_image_provide..., https://www.glamira.com/shipping-label-fee.html, null, 2024-03-07 02:05:42, null, https://cdn-media.glamira.com/media/catalog/product/e/x/express_..., null, null, null, null, null, null, null, null, None/-media-catalog-product-e-x-express_shipping_view_2.png).
+
+Failed to save metadata for https://cdn-media.glamira.com/media/catalog/product/e/x/express_shipping_view_2.png.
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow/width/w4/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/white/width/w4/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white/width/w5/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/white_yellow/width/w5/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow/width/w6/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow/width/w6/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w8/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow/width/w8/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w10/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w10/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w10/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w5/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n/womenstone/diamond-zirconia_AAAAA/alloycolour/white/width/w6/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w8/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/white/width/w10/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow/width/w5/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/white/width/w6/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w8/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-aw/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-aw/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-b-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-b-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-c-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-c-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-d-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-d-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-e-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-e-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-f-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-f-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-g-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-g-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-h-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-h-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-i-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-i-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-j-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-j-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-k-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-k-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-l-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-l-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-m-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-m-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-n-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-n-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-o-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-o-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-p-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-p-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-q-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-q-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-r-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-r-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-s-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-s-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-t-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-t-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-u-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-u-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-v-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-v-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-w-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-w-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-x-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-x-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-y-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-y-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-z-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-z-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/2/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/5/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/6/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/2/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/5/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/6/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-aw/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-aw/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-b-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-b-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-c-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-c-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-d-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-d-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-e-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-e-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-f-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-f-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-g-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-g-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-h-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-h-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-i-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-i-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-j-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-j-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-k-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-k-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-l-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-l-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-m-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-m-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-n-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-n-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-o-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-o-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-p-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-p-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-q-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-q-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-r-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-r-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-s-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-s-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-t-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-t-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-u-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-u-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-v-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-v-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-w-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-w-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-x-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-x-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-y-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-y-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-z-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-z-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/2/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/5/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/6/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/2/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/5/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/6/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Error saving metadata: null value in column "product_name" of relation "images_metadata" violates not-null constraint
+DETAIL:  Failing row contains (401002, https://www.glamira.com/media/sitemap/glus/product_image_provide..., https://www.glamira.com/shipping-label-fee.html, null, 2024-03-07 02:05:42, null, https://cdn-media.glamira.com/media/catalog/product/e/x/express_..., null, null, null, null, null, null, null, null, None/-media-catalog-product-e-x-express_shipping_view_2.png).
+
+Failed to save metadata for https://cdn-media.glamira.com/media/catalog/product/e/x/express_shipping_view_2.png.
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow/width/w4/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/white/width/w4/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white/width/w5/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/white_yellow/width/w5/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow/width/w6/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow/width/w6/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w8/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow/width/w8/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w10/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w10/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w10/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w5/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n/womenstone/diamond-zirconia_AAAAA/alloycolour/white/width/w6/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w8/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/white/width/w10/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow/width/w5/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/white/width/w6/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w8/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/6/sku/anissa-n-025/diamond/diamond-Brillant_AAA/alloycolour/yellow.jpg. Status code: 404
+Error saving metadata: null value in column "product_name" of relation "images_metadata" violates not-null constraint
+DETAIL:  Failing row contains (401003, https://www.glamira.com/media/sitemap/glus/product_image_provide..., https://www.glamira.com/quotation-product.html, null, 2024-03-07 02:02:50, null, https://cdn-media.glamira.com/media/catalog/product/s/p/specialc..., null, null, null, null, null, null, null, null, None/-media-catalog-product-s-p-specialc_1.jpg).
+
+Failed to save metadata for https://cdn-media.glamira.com/media/catalog/product/s/p/specialc_1.jpg.
+Error saving metadata: null value in column "product_name" of relation "images_metadata" violates not-null constraint
+DETAIL:  Failing row contains (401004, https://www.glamira.com/media/sitemap/glus/product_image_provide..., https://www.glamira.com/express-shipping.html, null, 2024-03-07 02:02:50, null, https://cdn-media.glamira.com/media/catalog/product/e/x/express_..., null, null, null, null, null, null, null, null, None/-media-catalog-product-e-x-express_shipping_view.png).
+
+Failed to save metadata for https://cdn-media.glamira.com/media/catalog/product/e/x/express_shipping_view.png.
+Error saving metadata: null value in column "product_name" of relation "images_metadata" violates not-null constraint
+DETAIL:  Failing row contains (401005, https://www.glamira.com/media/sitemap/glus/product_image_provide..., https://www.glamira.com/express-shipping-1.html, null, 2024-03-07 02:02:50, null, https://cdn-media.glamira.com/media/catalog/product/e/x/express_..., null, null, null, null, null, null, null, null, None/-media-catalog-product-e-x-express_shipping_view_1.png).
+
+Failed to save metadata for https://cdn-media.glamira.com/media/catalog/product/e/x/express_shipping_view_1.png.
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/5/sku/OEPD-078/alloycolour/red_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/2/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/5/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/6/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/7/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/ailecost/diamond/labdiamond_AAAA/alloycolour/white/accent/sea-green.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/2/sku/ailecost/diamond/labdiamond_AAAA/alloycolour/white/accent/sea-green.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/ailecost/diamond/labdiamond_AAAA/alloycolour/white/accent/sea-green.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/ailecost/diamond/labdiamond_AAAA/alloycolour/white/accent/sea-green.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/5/sku/ailecost/diamond/labdiamond_AAAA/alloycolour/white/accent/sea-green.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/6/sku/ailecost/diamond/labdiamond_AAAA/alloycolour/white/accent/sea-green.jpg. Status code: 404
+Error saving metadata: null value in column "product_name" of relation "images_metadata" violates not-null constraint
+DETAIL:  Failing row contains (430923, https://www.glamira.com/media/sitemap/glus/product_image_provide..., https://www.glamira.com/engraving-fee.html, null, 2024-03-07 02:17:24, null, https://cdn-media.glamira.com/media/catalog/product/e/n/engravin..., null, null, null, null, null, null, null, null, None/-media-catalog-product-e-n-engraving-fee.png).
+
+Failed to save metadata for https://cdn-media.glamira.com/media/catalog/product/e/n/engraving-fee.png.
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/6/sku/anissa-n-025/diamond/diamond-Brillant_AAA/alloycolour/yellow.jpg. Status code: 404
+Error saving metadata: null value in column "product_name" of relation "images_metadata" violates not-null constraint
+DETAIL:  Failing row contains (434510, https://www.glamira.com/media/sitemap/glus/product_image_provide..., https://www.glamira.com/quotation-product.html, null, 2024-03-07 02:02:50, null, https://cdn-media.glamira.com/media/catalog/product/s/p/specialc..., null, null, null, null, null, null, null, null, None/-media-catalog-product-s-p-specialc_1.jpg).
+
+Failed to save metadata for https://cdn-media.glamira.com/media/catalog/product/s/p/specialc_1.jpg.
+Error saving metadata: null value in column "product_name" of relation "images_metadata" violates not-null constraint
+DETAIL:  Failing row contains (434511, https://www.glamira.com/media/sitemap/glus/product_image_provide..., https://www.glamira.com/express-shipping.html, null, 2024-03-07 02:02:50, null, https://cdn-media.glamira.com/media/catalog/product/e/x/express_..., null, null, null, null, null, null, null, null, None/-media-catalog-product-e-x-express_shipping_view.png).
+
+Failed to save metadata for https://cdn-media.glamira.com/media/catalog/product/e/x/express_shipping_view.png.
+Error saving metadata: null value in column "product_name" of relation "images_metadata" violates not-null constraint
+DETAIL:  Failing row contains (434512, https://www.glamira.com/media/sitemap/glus/product_image_provide..., https://www.glamira.com/express-shipping-1.html, null, 2024-03-07 02:02:50, null, https://cdn-media.glamira.com/media/catalog/product/e/x/express_..., null, null, null, null, null, null, null, null, None/-media-catalog-product-e-x-express_shipping_view_1.png).
+
+Failed to save metadata for https://cdn-media.glamira.com/media/catalog/product/e/x/express_shipping_view_1.png.
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/5/sku/OEPD-078/alloycolour/red_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/2/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/5/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/6/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/7/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/2/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/5/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/6/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/2/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/5/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/6/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-aw/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-aw/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-b-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-b-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-c-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-c-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-d-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-d-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-e-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-e-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-f-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-f-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-g-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-g-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-h-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-h-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-i-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-i-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-j-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-j-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-k-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-k-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-l-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-l-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-m-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-m-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-n-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-n-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-o-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-o-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-p-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-p-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-q-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-q-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-r-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-r-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-s-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-s-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-t-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-t-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-u-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-u-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-v-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-v-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-w-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-w-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-x-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-x-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-y-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-y-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-z-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-z-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/2/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/5/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/6/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/2/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/5/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/6/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Error saving metadata: null value in column "product_name" of relation "images_metadata" violates not-null constraint
+DETAIL:  Failing row contains (459211, https://www.glamira.com/media/sitemap/glus/product_image_provide..., https://www.glamira.com/shipping-label-fee.html, null, 2024-03-07 02:05:42, null, https://cdn-media.glamira.com/media/catalog/product/e/x/express_..., null, null, null, null, null, null, null, null, None/-media-catalog-product-e-x-express_shipping_view_2.png).
+
+Failed to save metadata for https://cdn-media.glamira.com/media/catalog/product/e/x/express_shipping_view_2.png.
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow/width/w4/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/white/width/w4/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white/width/w5/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/white_yellow/width/w5/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow/width/w6/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow/width/w6/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w8/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow/width/w8/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w10/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w10/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w10/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w5/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n/womenstone/diamond-zirconia_AAAAA/alloycolour/white/width/w6/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w8/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/white/width/w10/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow/width/w5/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/white/width/w6/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w8/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/ailecost/diamond/labdiamond_AAAA/alloycolour/white/accent/sea-green.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/2/sku/ailecost/diamond/labdiamond_AAAA/alloycolour/white/accent/sea-green.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/ailecost/diamond/labdiamond_AAAA/alloycolour/white/accent/sea-green.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/ailecost/diamond/labdiamond_AAAA/alloycolour/white/accent/sea-green.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/5/sku/ailecost/diamond/labdiamond_AAAA/alloycolour/white/accent/sea-green.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/6/sku/ailecost/diamond/labdiamond_AAAA/alloycolour/white/accent/sea-green.jpg. Status code: 404
+Error saving metadata: null value in column "product_name" of relation "images_metadata" violates not-null constraint
+DETAIL:  Failing row contains (459212, https://www.glamira.com/media/sitemap/glus/product_image_provide..., https://www.glamira.com/engraving-fee.html, null, 2024-03-07 02:17:24, null, https://cdn-media.glamira.com/media/catalog/product/e/n/engravin..., null, null, null, null, null, null, null, null, None/-media-catalog-product-e-n-engraving-fee.png).
+
+Failed to save metadata for https://cdn-media.glamira.com/media/catalog/product/e/n/engraving-fee.png.
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-aw/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-aw/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-b-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-b-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-c-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-c-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-d-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-d-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-e-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-e-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-f-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-f-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-g-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-g-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-h-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-h-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-i-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-i-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-j-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-j-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-k-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-k-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-l-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-l-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-m-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-m-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-n-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-n-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-o-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-o-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-p-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-p-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-q-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-q-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-r-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-r-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-s-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-s-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-t-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-t-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-u-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-u-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-v-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-v-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-w-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-w-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-x-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-x-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-y-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-y-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-z-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-z-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/2/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/5/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/6/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/2/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/5/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/6/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/6/sku/anissa-n-025/diamond/diamond-Brillant_AAA/alloycolour/yellow.jpg. Status code: 404
+Error saving metadata: null value in column "product_name" of relation "images_metadata" violates not-null constraint
+DETAIL:  Failing row contains (459745, https://www.glamira.com/media/sitemap/glus/product_image_provide..., https://www.glamira.com/quotation-product.html, null, 2024-03-07 02:02:50, null, https://cdn-media.glamira.com/media/catalog/product/s/p/specialc..., null, null, null, null, null, null, null, null, None/-media-catalog-product-s-p-specialc_1.jpg).
+
+Failed to save metadata for https://cdn-media.glamira.com/media/catalog/product/s/p/specialc_1.jpg.
+Error saving metadata: null value in column "product_name" of relation "images_metadata" violates not-null constraint
+DETAIL:  Failing row contains (459746, https://www.glamira.com/media/sitemap/glus/product_image_provide..., https://www.glamira.com/express-shipping.html, null, 2024-03-07 02:02:50, null, https://cdn-media.glamira.com/media/catalog/product/e/x/express_..., null, null, null, null, null, null, null, null, None/-media-catalog-product-e-x-express_shipping_view.png).
+
+Failed to save metadata for https://cdn-media.glamira.com/media/catalog/product/e/x/express_shipping_view.png.
+Error saving metadata: null value in column "product_name" of relation "images_metadata" violates not-null constraint
+DETAIL:  Failing row contains (459747, https://www.glamira.com/media/sitemap/glus/product_image_provide..., https://www.glamira.com/express-shipping-1.html, null, 2024-03-07 02:02:50, null, https://cdn-media.glamira.com/media/catalog/product/e/x/express_..., null, null, null, null, null, null, null, null, None/-media-catalog-product-e-x-express_shipping_view_1.png).
+
+Failed to save metadata for https://cdn-media.glamira.com/media/catalog/product/e/x/express_shipping_view_1.png.
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/5/sku/OEPD-078/alloycolour/red_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/2/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/5/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/6/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/7/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Error saving metadata: null value in column "product_name" of relation "images_metadata" violates not-null constraint
+DETAIL:  Failing row contains (459752, https://www.glamira.com/media/sitemap/glus/product_image_provide..., https://www.glamira.com/shipping-label-fee.html, null, 2024-03-07 02:05:42, null, https://cdn-media.glamira.com/media/catalog/product/e/x/express_..., null, null, null, null, null, null, null, null, None/-media-catalog-product-e-x-express_shipping_view_2.png).
+
+Failed to save metadata for https://cdn-media.glamira.com/media/catalog/product/e/x/express_shipping_view_2.png.
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow/width/w4/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/white/width/w4/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white/width/w5/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/white_yellow/width/w5/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow/width/w6/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow/width/w6/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w8/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow/width/w8/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w10/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w10/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w10/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w5/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n/womenstone/diamond-zirconia_AAAAA/alloycolour/white/width/w6/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w8/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/white/width/w10/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow/width/w5/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/white/width/w6/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w8/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/ailecost/diamond/labdiamond_AAAA/alloycolour/white/accent/sea-green.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/2/sku/ailecost/diamond/labdiamond_AAAA/alloycolour/white/accent/sea-green.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/ailecost/diamond/labdiamond_AAAA/alloycolour/white/accent/sea-green.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/ailecost/diamond/labdiamond_AAAA/alloycolour/white/accent/sea-green.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/5/sku/ailecost/diamond/labdiamond_AAAA/alloycolour/white/accent/sea-green.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/6/sku/ailecost/diamond/labdiamond_AAAA/alloycolour/white/accent/sea-green.jpg. Status code: 404
+Error saving metadata: null value in column "product_name" of relation "images_metadata" violates not-null constraint
+DETAIL:  Failing row contains (459753, https://www.glamira.com/media/sitemap/glus/product_image_provide..., https://www.glamira.com/engraving-fee.html, null, 2024-03-07 02:17:24, null, https://cdn-media.glamira.com/media/catalog/product/e/n/engravin..., null, null, null, null, null, null, null, null, None/-media-catalog-product-e-n-engraving-fee.png).
+
+Failed to save metadata for https://cdn-media.glamira.com/media/catalog/product/e/n/engraving-fee.png.
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/2/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/5/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/6/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/2/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/5/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/6/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Error saving metadata: null value in column "product_name" of relation "images_metadata" violates not-null constraint
+DETAIL:  Failing row contains (459754, https://www.glamira.com/media/sitemap/glus/product_image_provide..., https://www.glamira.com/shipping-label-fee.html, null, 2024-03-07 02:05:42, null, https://cdn-media.glamira.com/media/catalog/product/e/x/express_..., null, null, null, null, null, null, null, null, None/-media-catalog-product-e-x-express_shipping_view_2.png).
+
+Failed to save metadata for https://cdn-media.glamira.com/media/catalog/product/e/x/express_shipping_view_2.png.
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow/width/w4/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/white/width/w4/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white/width/w5/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/white_yellow/width/w5/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow/width/w6/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow/width/w6/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w8/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow/width/w8/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w10/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h14319086n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w10/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w10/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w5/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n/womenstone/diamond-zirconia_AAAAA/alloycolour/white/width/w6/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w8/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/white/width/w10/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow/width/w5/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/white/width/w6/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/gwd-h1011n-WOMEN/womenstone/diamond-zirconia_AAAAA/alloycolour/red/width/w8/profile/prA.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/2/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/5/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/6/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/2/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/5/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/6/sku/10862scie1/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/stone3/diamond-Swarovsky_AAAAA/alloycolour/white/accent/malachite.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/6/sku/anissa-n-025/diamond/diamond-Brillant_AAA/alloycolour/yellow.jpg. Status code: 404
+Error saving metadata: null value in column "product_name" of relation "images_metadata" violates not-null constraint
+DETAIL:  Failing row contains (459755, https://www.glamira.com/media/sitemap/glus/product_image_provide..., https://www.glamira.com/quotation-product.html, null, 2024-03-07 02:02:50, null, https://cdn-media.glamira.com/media/catalog/product/s/p/specialc..., null, null, null, null, null, null, null, null, None/-media-catalog-product-s-p-specialc_1.jpg).
+
+Failed to save metadata for https://cdn-media.glamira.com/media/catalog/product/s/p/specialc_1.jpg.
+Error saving metadata: null value in column "product_name" of relation "images_metadata" violates not-null constraint
+DETAIL:  Failing row contains (459756, https://www.glamira.com/media/sitemap/glus/product_image_provide..., https://www.glamira.com/express-shipping.html, null, 2024-03-07 02:02:50, null, https://cdn-media.glamira.com/media/catalog/product/e/x/express_..., null, null, null, null, null, null, null, null, None/-media-catalog-product-e-x-express_shipping_view.png).
+
+Failed to save metadata for https://cdn-media.glamira.com/media/catalog/product/e/x/express_shipping_view.png.
+Error saving metadata: null value in column "product_name" of relation "images_metadata" violates not-null constraint
+DETAIL:  Failing row contains (459757, https://www.glamira.com/media/sitemap/glus/product_image_provide..., https://www.glamira.com/express-shipping-1.html, null, 2024-03-07 02:02:50, null, https://cdn-media.glamira.com/media/catalog/product/e/x/express_..., null, null, null, null, null, null, null, null, None/-media-catalog-product-e-x-express_shipping_view_1.png).
+
+Failed to save metadata for https://cdn-media.glamira.com/media/catalog/product/e/x/express_shipping_view_1.png.
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/5/sku/OEPD-078/alloycolour/red_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/2/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/5/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/6/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/7/sku/Alannis/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-aw/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-aw/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-b-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-b-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-c-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-c-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-d-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-d-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-e-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-e-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-f-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-f-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-g-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-g-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-h-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-h-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-i-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-i-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-j-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-j-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-k-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-k-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-l-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-l-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-m-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-m-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-n-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-n-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-o-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-o-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-p-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-p-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-q-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-q-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-r-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-r-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-s-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-s-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-t-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-t-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-u-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-u-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-v-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-v-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-w-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-w-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-x-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-x-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-y-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-y-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/14613captivating-butterfly-z-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/14613captivating-butterfly-z-w/womenstone/diamond-zirconia_AAAAA/alloycolour/yellow_white_white.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/2/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/5/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/6/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/2/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/5/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/6/sku/15061farabitona/diamond/labdiamond_AAAA/stone2/labdiamond_AAAA/alloycolour/yellow.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/ailecost/diamond/labdiamond_AAAA/alloycolour/white/accent/sea-green.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/2/sku/ailecost/diamond/labdiamond_AAAA/alloycolour/white/accent/sea-green.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/3/sku/ailecost/diamond/labdiamond_AAAA/alloycolour/white/accent/sea-green.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/4/sku/ailecost/diamond/labdiamond_AAAA/alloycolour/white/accent/sea-green.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/5/sku/ailecost/diamond/labdiamond_AAAA/alloycolour/white/accent/sea-green.jpg. Status code: 404
+Failed to download image https://cdn-media.glamira.com/media/product/newgeneration/view/6/sku/ailecost/diamond/labdiamond_AAAA/alloycolour/white/accent/sea-green.jpg. Status code: 404
+Error saving metadata: null value in column "product_name" of relation "images_metadata" violates not-null constraint
+DETAIL:  Failing row contains (459758, https://www.glamira.com/media/sitemap/glus/product_image_provide..., https://www.glamira.com/engraving-fee.html, null, 2024-03-07 02:17:24, null, https://cdn-media.glamira.com/media/catalog/product/e/n/engravin..., null, null, null, null, null, null, null, null, None/-media-catalog-product-e-n-engraving-fee.png).
+
+Failed to save metadata for https://cdn-media.glamira.com/media/catalog/product/e/n/engraving-fee.png.

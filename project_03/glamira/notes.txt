@@ -1,0 +1,16 @@
+# postgres metadata table structure
+id
+product_url
+product_name
+lastmod
+sku
+image_url
+view
+womenstone
+diamond
+stone2
+stone3
+alloycolour
+accent
+wood
+minio_path
